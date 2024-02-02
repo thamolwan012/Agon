@@ -1,2 +1,2 @@
-<img src=ฉาก.png># Agon
+<img src=ฉาก.PNG># Agon
  ฉากเกม
